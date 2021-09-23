@@ -15,8 +15,8 @@ class Config:
     MAIL_SERVER = 'smtp.qq.com'
     MAIL_PORT = 587
     MAIL_USE_TLS = True
-    MAIL_USERNAME = os.environ.get('MAIL_USERNAME') or '55121236@qq.com'
-    MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD') or 'fglaocdidxgmbhbd'
+    MAIL_USERNAME = os.environ.get('MAIL_USERNAME') or '**************'
+    MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD') or '**************'
     FLASKY_MAIL_SUBJECT_PREFIX = '[Flasky]'
     FLASKY_MAIL_SENDER = '55121236@qq.com'
     FLASKY_ADMIN = '55121236@qq.com'
