@@ -1,5 +1,4 @@
 alembic==1.7.1
-anno-title==0.7
 APScheduler==3.7.0
 bleach==4.1.0
 blinker==1.4
