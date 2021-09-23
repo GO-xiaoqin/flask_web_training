@@ -5,7 +5,6 @@ blinker==1.4
 certifi==2021.5.30
 charset-normalizer==2.0.4
 click==8.0.1
-consumer-ai-common==0.3
 coverage==5.5
 cx-Oracle==6.3
 dataclasses==0.8
